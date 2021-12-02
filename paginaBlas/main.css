@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 1px;
+}
+
+.titulo{
+    background: rgb(45, 125, 201);
+    margin: 0%;
+    padding: 1%;
+
+}
+
+.uat{
+    width: 7%;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: 95%;
+    margin-top: -4%;
+
+}
+
+.caduceo{
+    width: 8%;
+    position: absolute;
+    margin-right: 15%;
+    margin-left: 85%;
+    margin-top: -5%;
+       
+}
+
+.titulo h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulo ul{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo ul li{
+    display: inline-block;
+}
+
+.titulo ul li a{
+    color: rgb(241, 241, 248);
+    display: block;
+    padding: 10px 40px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.titulo ul li a:hover{
+    background: rgb(17, 3, 80);
+}
+
+.imgdoc {
+    width: 100%;
+    height: 550px;
+}
+

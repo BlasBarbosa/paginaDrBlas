@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 1px;
+}
+
+.titulo{
+    background: rgb(45, 125, 201);
+    margin: 0%;
+    padding: 1%;
+
+}
+
+.uat{
+    width: 7%;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: 95%;
+    margin-top: -4%;
+
+}
+
+.caduceo{
+    width: 8%;
+    position: absolute;
+    margin-right: 15%;
+    margin-left: 85%;
+    margin-top: -5%;
+       
+}
+
+.titulo h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulo ul{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo ul li{
+    display: inline-block;
+}
+
+.titulo ul li a{
+    color: rgb(241, 241, 248);
+    display: block;
+    padding: 10px 40px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.titulo ul li a:hover{
+    background: rgb(17, 3, 80);
+}
+
+/*
+De aqui para arriba es la barra de menu fija
+*/
+
+.consulta h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+}
+
+.consulta p{
+    text-align: justify;
+    margin-left: 33%;
+    margin-right: 10%;
+    margin-top: 10px;
+    
+}
+
+.logosmart{
+    position: relative;
+    margin-left: 30%;
+    
+}
+
+.consul1{
+    position: absolute;
+    top: 200px;
+    width: 10%;
+    left: 35px; 
+}
+
+.consul2{
+    position: absolute;
+    top: 200px;
+    width: 10%;
+    left: 230px; 
+}
